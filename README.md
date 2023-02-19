@@ -21,6 +21,9 @@ Files that are relevant to the application which acts as the user interface to c
 ### Neural_Networks
 Code for creating neural networks for the wake word 'go' and for the command words - left, right, backward, forward, up, down. (Using speech recognition data set of google AI). FIX THISSS
 
+### Unit Tests
+Basic test code for hardware accessories. These tests can be used in the event of a malfunction in order to test the hardware accessories.
+
 ### Project Documentation
 PDF files for the documentation of the project.
 
