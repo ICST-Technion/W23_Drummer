@@ -19,7 +19,7 @@ Code for the ESP32, which controls the microphone and solenoids according to the
 Files that are relevant to the application which acts as the user interface to contorl the modes.
 
 ### Neural_Networks
-Code for creating neural networks for the wake word 'go' and for the command words - left, right, backward, forward, up, down. (Using speech recognition data set of google AI). FIX THISSS
+Code for creating neural networks for the wake word 'go' and for the command words - left, right, backward, forward, up, down. (Using speech recognition data set of google AI). FIX THISSS -- have this include all files that we used to create the data etc and maybe even recordnings of the classes themselves
 
 ### Unit Tests
 Basic test code for hardware accessories such as the microphone, pedal, and solenoids. These tests can be used in the event of a malfunction in order to test the accessories.
