@@ -28,8 +28,10 @@ Basic test code for hardware accessories such as the microphone, pedal, and sole
 PDF files for the documentation of the project.
 
 ## System Diagram:
+<img width="491" alt="System Diagram" src="https://user-images.githubusercontent.com/73828655/219973078-0f813a41-0396-44d6-991f-2213a4704e01.png">
 
 ## Wiring Diagram:
+<img width="517" alt="Wiring Diagram" src="https://user-images.githubusercontent.com/73828655/219972676-fe5b2391-525d-4686-9125-0112db343b68.png">
 
 ## User Interface – Application:
 
