@@ -11,7 +11,7 @@
 * Looper Mode – repeats the beat created by the user in a loop, allowing the user to build on the beat
 * Interactive Mode – produces a bar of beats to follow the user’s bar and to continue the rhythm
 
-## List Of Content:
+## List of Content: HAVE THESE BY FOLDERS!!
 ### ESP32
 Code for the ESP32, which controls the microphone and solenoids according to the mode instructions set.
 
@@ -23,3 +23,11 @@ Code for creating neural networks for the wake word 'go' and for the command wor
 
 ### Project Documentation
 PDF files for the documentation of the project.
+
+## System Diagram:
+
+## Wiring Diagram:
+
+## User Interface – Application:
+
+## Libraries Used:
