@@ -34,5 +34,6 @@ PDF files for the documentation of the project.
 <img width="517" alt="Wiring Diagram" src="https://user-images.githubusercontent.com/73828655/219972676-fe5b2391-525d-4686-9125-0112db343b68.png">
 
 ## User Interface – Application:
+put images of the different screens here with some explination
 
 ## Libraries Used:
