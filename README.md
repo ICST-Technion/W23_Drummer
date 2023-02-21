@@ -37,5 +37,5 @@ PDF files for the documentation of the project.
 put images of the different screens here with some explination
 
 ## Libraries Used:
-* ESP - BLE Libraries, TFLite and TFLite Micro
-* Appliaction - flutter_blue
+* For the ESP code - BLE Libraries, TFLite and TFLite Micro
+* For the Appliaction - flutter_blue
