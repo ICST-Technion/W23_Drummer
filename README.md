@@ -24,7 +24,7 @@ Notebook for creating the neural network for interactive mode.
 ### Unit Tests
 Basic test code for hardware accessories such as the microphone, pedal, and solenoids. These tests can be used in the event of a malfunction in order to test the accessories.
 
-### Project Documentation
+### Documentation
 PDF files for the documentation of the project.
 
 ## System Diagram:
