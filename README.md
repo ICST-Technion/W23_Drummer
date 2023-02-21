@@ -19,7 +19,7 @@ Code for the ESP32, which controls the microphone and solenoids according to the
 Files that are relevant to the application which acts as the user interface to contorl the modes.
 
 ### Model
-Notebook for creating the neural network for interactive mode. The folder also includes the audio files of what each class sounds like and what the responses for each class sound like.
+Notebook for creating the neural network for interactive mode.
 
 ### Unit Tests
 Basic test code for hardware accessories such as the microphone, pedal, and solenoids. These tests can be used in the event of a malfunction in order to test the accessories.
