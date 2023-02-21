@@ -34,7 +34,7 @@ PDF files for the documentation of the project.
 <img width="517" alt="Wiring Diagram" src="https://user-images.githubusercontent.com/73828655/219972676-fe5b2391-525d-4686-9125-0112db343b68.png">
 
 ## User Interface – Application:
-<img width="667" alt="Screenshot 2023-02-21 172218" src="https://user-images.githubusercontent.com/73828655/220387563-369b0c90-3bf3-4fb0-ba63-2897bf01fc3f.png">
+<img width="751" alt="Screenshot 2023-02-21 185950" src="https://user-images.githubusercontent.com/73828655/220411021-13b8fd91-020c-4c44-8142-9da4867392e5.png">
 
 ## Libraries Used:
 * For the ESP code - BLE libraries, TFLite and TFLite Micro
