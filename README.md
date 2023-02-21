@@ -16,7 +16,7 @@
 Code for the ESP32, which controls the microphone and solenoids according to the mode instructions set.
 
 ### Application
-Files that are relevant to the application which acts as the user interface to contorl the modes.
+Files that are relevant to the application which acts as the user interface to control the modes.
 
 ### Model
 Notebook for creating the neural network for interactive mode.
