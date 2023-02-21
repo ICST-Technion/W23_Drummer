@@ -12,7 +12,7 @@
 * Interactive Mode – produces a bar of beats to follow the user’s bar and to continue the rhythm
 
 ## List of Content:
-### ESP32
+### Drummer
 Code for the ESP32, which controls the microphone and solenoids according to the mode instructions set.
 
 ### Application
